@@ -1,3 +1,28 @@
+/*
+ * F1AltTab
+ *
+ * Copyright (c) 2026 Christopher T. Williams
+ * All rights reserved.
+ *
+ * AUTHORSHIP / DEVELOPMENT DISCLOSURE
+ *
+ * This software and its underlying implementation are the work of
+ * Christopher T. Williams. The F1AltTab input-remapping architecture,
+ * behavior, and implementation are proprietary to the author unless
+ * otherwise expressly stated.
+ *
+ * AI tools were used as development assistance during the design,
+ * troubleshooting, and implementation process. AI assistance does not
+ * constitute authorship, ownership, assignment, or licensing of the
+ * resulting work to any AI system or AI provider.
+ *
+ * No rights are granted to copy, modify, distribute, sublicense, or
+ * incorporate this software into another work except as expressly
+ * authorized by a license or written permission from Christopher T. Williams.
+ *
+ * Third-party components, APIs, frameworks, or operating-system interfaces
+ * remain subject to their respective licenses and terms.
+ */
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
