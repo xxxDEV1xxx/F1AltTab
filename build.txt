@@ -1,0 +1,11 @@
+cd J:\true-sentinel\f1alttab
+
+# Clear any leftover broken state
+dotnet nuget locals all --clear
+
+# Restore (this should now succeed)
+dotnet restore
+
+# Build & run
+dotnet build -c Release
+dotnet run -c Release
